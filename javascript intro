@@ -12,3 +12,13 @@ few selectors to locate object
 1. document.getElementById()
 2. document.getElementsByClassName()
 3. document.getElementsByTagName
+
+no class in javascript but there is object in javascript ,that is why it is called object based programming not obj. oriented programming.
+
+
+guidelines
+1. always recommended to start the first name of the file with "use strict" ----- will give errors of defining varibles of global
+2. if u are using global variables then u (should) define in starting of the program.--ex- var a,b,c
+
+**********css---- box-sizing:border-box   
+tabindex
