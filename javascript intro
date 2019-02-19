@@ -1,0 +1,14 @@
+should write in last before closing of the body tag bec the function may not know about the buttons functionalities
+
+var keyword
+typeof  for getting the type of variable
+var keyword is global
+any variable that you create with keyword var that will be inside window object
+any variable defined within function,will not be able to access outside.
+window objects are common for all the files
+document is part of window object
+
+few selectors to locate object
+1. document.getElementById()
+2. document.getElementsByClassName()
+3. document.getElementsByTagName
