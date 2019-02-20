@@ -31,3 +31,4 @@ javascript link--------     javascriptjackal
                              scotch.io
       risingstack.io
       
+variable hoisting is done by javascript. means all variables with assignment will be declared in starting of program.
