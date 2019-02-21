@@ -32,3 +32,19 @@ javascript link--------     javascriptjackal
       risingstack.io
       
 variable hoisting is done by javascript. means all variables with assignment will be declared in starting of program.
+
+
+variable vs property
+properties are attached to context whereas variables are attached are attached to context.
+if a function 'a' defined with new inside function b then function a can acces b's var but b cannot acces properties of a;
+
+
+closure ---- concept in which inner function will remember 
+
+properties of an object are always key-value pair
+
+
+
+longitude -77.696784  latitude-12.981225      https://www.latlong.net/
+
+
